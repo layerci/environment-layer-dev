@@ -5,3 +5,9 @@ dependencies:
   url: https://github.com/layerco/layer-platform.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: layerco
+  repo: layer-frontend
+  url: https://github.com/layerco/layer-frontend.git
+  version: ""
+  versionURL: ""
