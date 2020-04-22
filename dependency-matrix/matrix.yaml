@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: layerco
+  repo: layer-platform
+  url: https://github.com/layerco/layer-platform.git
+  version: ""
+  versionURL: ""
